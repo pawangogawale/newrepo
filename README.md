@@ -1,3 +1,5 @@
-#new report
-my first try in git hub
-
+project-folder/
+  ├── index.html
+  ├── styles.css
+  ├── images/
+      └── my-background.jpg
